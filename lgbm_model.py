@@ -1,4 +1,7 @@
-#LGBM Algorithm
+'''
+@author: Ishan Mohanty
+EE660: Machine Learning From Signals
+'''
 
 #dependencies
 import numpy as np
